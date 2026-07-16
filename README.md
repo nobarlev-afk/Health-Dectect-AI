@@ -1,12 +1,21 @@
 # Health-Dectect-AI
-AI X-Ray disease detector for Pneumonia, Teberculosis, and Covid-19
 
-Detects Pneumonia, Teburculosis, and Covid-19 from chest X-rays with 91% accuracy.
+AI-powered chest X-ray analysis that detects Pneumonia, Teberculosis, and Covid-19 in seconds.
 
-Live app  →  https://detect-ai-27aidenabueg.replit.app/#about
+## 🚀 Live Demo
+Try it here → [example-app.replit.app](https://example-app.replit.app)
 
-How it works  →  Fine-tuned ResNet-50 on NIH ChestX-ray14 (5,232 images).
+## What It Does
+This app analyzes chest X-ray images and predicts whether a patient shows signs of Pneumonia, Teburculosis, or Covid-19 achieving **91% accuracy** on validation data. Upload an X-ray and get an instant prediction — built to make diagnostic support more accessible.
+
+## Stack
+- **Python**
+- **TensorFlow**
+- **Replit** (hosting + development)
 
 
-Process
-Stack  →  Python · TensorFlow · Replit
+## Credits
+Built by Noah Barlev, Aiden Abung, Braden Pollock using open chest X-ray datasets and TensorFlow. Thanks to the open-source ML community for tools and inspiration. 🙌
+
+---
+⚠️ *For educational/demo purposes only — not a substitute for professional medical diagnosis.*
