@@ -1,9 +1,9 @@
-# Health-Dectect-AI
+# SpiroSense.ai
 
 AI-powered chest X-ray analysis that detects Pneumonia, Teberculosis, and Covid-19 in seconds.
 
 ## 🚀 Live Demo
-Try it here → https://detect-ai-27aidenabueg.replit.app/#about
+Try it here → https://spiro-sense-ai.replit.app/
 
 ## What It Does
 This app analyzes chest X-ray images and predicts whether a patient shows signs of Pneumonia, Teburculosis, or Covid-19 achieving **91% accuracy** on validation data. Upload an X-ray and get an instant prediction — built to make diagnostic support more accessible.
